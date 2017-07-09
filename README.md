@@ -1,4 +1,4 @@
 Test repo
 
-## Nowy test 1 ##
+## Git ammend test ##
 
